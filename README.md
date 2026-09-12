@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/pbzin/GooglePhotosMod/main/logooriginal.jpg" width="150" alt="GooglePhotosMod logo" />
 <p align="left">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpbzin%2FGooglePhotosMod">
+  <a href="https://github.com/pbzin/GooglePhotosMod">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpbzin%2FGooglePhotosMod&label=repo%20views&countColor=%230e75b6&style=flat" alt="Repo Views" />
   </a>
   &nbsp;
