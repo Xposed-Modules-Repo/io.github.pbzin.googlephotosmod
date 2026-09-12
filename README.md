@@ -1,4 +1,4 @@
-<img src="./logooriginal.jpg" width="150" height="auto" alt="GooglePhotosMod logo" />
+<img src="https://github.com/pbzin/logooriginal.jpg" width="150" height="auto" alt="GooglePhotosMod logo" />
 
 <p align="left">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpbzin%2FGooglePhotosMod">
