@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/pbzin/GooglePhotosMod/main/logooriginal.jpg" width="150" alt="GooglePhotosMod logo" />
+<img src="./logooriginal.jpg" width="150" height="auto" alt="GooglePhotosMod logo" />
+
 <p align="left">
-  <a href="https://github.com/pbzin/GooglePhotosMod">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpbzin%2FGooglePhotosMod">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpbzin%2FGooglePhotosMod&label=repo%20views&countColor=%230e75b6&style=flat" alt="Repo Views" />
   </a>
   &nbsp;
@@ -36,6 +37,7 @@ Prevents the system from prematurely terminating Google Photos backup tasks whil
 *   Android 8.0 (Oreo) or higher.
 *   **LSPosed** environment configured and active.
 *   Google Photos installed (`com.google.android.apps.photos`).
+    *   **Recommended Version**: `7.87.0.957333026-52161930` (Tested).
 
 ## Installation
 
